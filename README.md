@@ -1,9 +1,5 @@
 # SIAKAD APPLICATION - LARAVEL 10
 
-## Screenshots
-
-![preview img](/preview.png)
-
 ## Run Locally
 
 Clone the project
@@ -34,7 +30,3 @@ Clone the project
     php artisan storage:link
 ```
 
-#### Login
-
--   email = admin@admin.com
--   password = 123
